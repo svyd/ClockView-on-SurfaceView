@@ -11,7 +11,7 @@ Implementation custom view by extending View and SurfaceView.
 
 How it works:
 
-<iframe width="640" height="480" src="//www.youtube.com/embed/V9FqYLeE6N0" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="480" src="http://www.youtube.com/embed/V9FqYLeE6N0" frameborder="0" allowfullscreen></iframe>
 
 
 Draft sheet:
