@@ -11,8 +11,10 @@ Implementation custom view by extending View and SurfaceView.
 
 How it works:
 
-<iframe width="688" height="387" src="//www.youtube.com/embed/V9FqYLeE6N0" frameborder="0" allowfullscreen></iframe>
+[![Demo](http://img.youtube.com/vi/V9FqYLeE6N0/0.jpg)](http://www.youtube.com/watch?v=V9FqYLeE6N0)
 
+
+Draft sheet:
 
 <img alt="result"
        src="https://github.com/vovs/ClockView-on-SurfaceView/blob/master/data/clock_view_screen.jpg" />
