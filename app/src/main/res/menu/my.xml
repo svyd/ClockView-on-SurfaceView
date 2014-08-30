@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MyActivity" >
+    <item android:id="@+id/action_12_hours"
+        android:title="@string/hours12"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+    <item android:id="@+id/action_24_hours"
+          android:title="@string/hours24"
+          android:orderInCategory="100"
+          android:showAsAction="never" />
+</menu>
