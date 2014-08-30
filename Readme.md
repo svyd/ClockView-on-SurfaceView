@@ -11,7 +11,7 @@ Implementation custom view by extending View and SurfaceView.
 
 How it works:
 
-[![Demo](http://img.youtube.com/vi/V9FqYLeE6N0/0.jpg)](http://www.youtube.com/watch?v=V9FqYLeE6N0)
+<object width="420" height="315"><param name="movie" value="//www.youtube.com/v/V9FqYLeE6N0?hl=en_US&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/V9FqYLeE6N0?hl=en_US&amp;version=3" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
 
 
 Draft sheet:
