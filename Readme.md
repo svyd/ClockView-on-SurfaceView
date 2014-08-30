@@ -4,10 +4,10 @@ Analog Clock with 12 and 24 hours clock face
 Implementation custom view by extending View and SurfaceView.
 
 <h2>Files:</h2>
-* ClockViewSurface.java - custom view, implementation of Analog Clock. Base class is SurfaceView
-* ClockView.java - custom view, implementation of Analog Clock. Base class is View
-* CompassView.java - custom view, implementation of compass. Base class is View
-* MyView1.java - template for implementation custom views
+* **ClockViewSurface.java** - custom view, implementation of Analog Clock. Base class is SurfaceView
+* __ClockView.java__ - custom view, implementation of Analog Clock. Base class is View
+* __CompassView.java__ - custom view, implementation of compass. Base class is View
+* __MyView1.java__ - template for implementation custom views
 
 How it works:
 
